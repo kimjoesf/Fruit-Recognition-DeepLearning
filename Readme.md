@@ -134,13 +134,13 @@ Images were captured under varied real-world conditions to ensure robustness:
 
 ### 2.6 Class Distribution Visualization
 
-![Class Distribution](images/cell%206.png)
+![Class Distribution](images/1.png)
 
 *Bar chart showing the number of images per fruit class. The dataset exhibits class imbalance, with Guava being the dominant class.*
 
 ### 2.7 Sample Images
 
-![Sample Images](images/cell%207.png)
+![Sample Images](images/2.png)
 
 *One representative sample from each of the 15 fruit classes. Images show fruits on metallic trays with timestamps, captured under lab conditions.*
 
@@ -425,7 +425,7 @@ Class indices: {'Apple': 0, 'Banana': 1, 'Carambola': 2, 'Guava': 3,
 
 ### 6.6 Augmented Samples Visualization
 
-![Augmented Samples](images/augmented%20samples.png)
+![Augmented Samples](images/3.png)
 
 *Examples of augmented training images. Notice the rotation, zoom, brightness changes, and horizontal flips applied to the original images. Each augmented version is unique, effectively expanding the training dataset.*
 
